@@ -1,0 +1,8 @@
+{
+    "name": "beta_hot_xray_254",
+    "project_version": "0.0.1",
+    "sdk_version": "14.6.1",
+    "dependencies": [
+        {"name": "standard_library", "version": "14.6.1"}
+    ]
+}
